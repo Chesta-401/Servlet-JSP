@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import com.ymsli.productapp.model.exceptions.UserNotFoundException;
-import com.ymsli.productapp.model.persistance.user.User;
+import com.ymsli.productapp.model.persistence.user.User;
 import com.ymsli.productapp.model.service.UserService;
 import com.ymsli.productapp.model.service.UserServiceImpl;
 
