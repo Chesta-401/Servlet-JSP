@@ -1,4 +1,4 @@
-package com.ymsli.mvc.model.persistence.user;
+package com.ymsli.productapp.model.persistence.user;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Optional;
 
-import com.ymsli.mvc.model.persistence.factory.ConnectionFactory;
+import com.ymsli.productapp.model.persistence.factory.ConnectionFactory;
 
 public class UserDaoImpl implements UserDao {
 	private Connection connection;
