@@ -1,4 +1,4 @@
-package com.ymsli.mvc.model.persistence.user;
+package com.ymsli.productapp.model.persistence.user;
 
 public class User {
 	private String username;
