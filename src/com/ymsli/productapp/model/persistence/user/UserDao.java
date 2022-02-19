@@ -1,4 +1,4 @@
-package com.ymsli.mvc.model.persistence.user;
+package com.ymsli.productapp.model.persistence.user;
 
 import java.util.Optional;
 
