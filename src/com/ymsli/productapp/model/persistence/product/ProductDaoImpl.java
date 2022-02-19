@@ -1,4 +1,4 @@
-package com.ymsli.mvc.model.persistence.product;
+package com.ymsli.productapp.model.persistence.product;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
